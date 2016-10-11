@@ -1,0 +1,582 @@
+===>list_student
+session is: 710c780b-3910-a2a2-451a-fbb4d5922fb3
+post session: 710c780b-3910-a2a2-451a-fbb4d5922fb3
+===>list_student
+session is: 710c780b-3910-a2a2-451a-fbb4d5922fb3
+post session: 710c780b-3910-a2a2-451a-fbb4d5922fb3
+2
+===>list_student
+session is: 710c780b-3910-a2a2-451a-fbb4d5922fb3
+post session: 710c780b-3910-a2a2-451a-fbb4d5922fb3
+2
+===>list_student
+===>start_session
+session is:cf7f2989-4bd3-f23e-1196-bbb7dc204e56
+===>list_student
+session is: cf7f2989-4bd3-f23e-1196-bbb7dc204e56
+post session: cf7f2989-4bd3-f23e-1196-bbb7dc204e56
+2
+3
+4
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+session is: cf7f2989-4bd3-f23e-1196-bbb7dc204e56
+post session: cf7f2989-4bd3-f23e-1196-bbb7dc204e56
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+session is: cf7f2989-4bd3-f23e-1196-bbb7dc204e56
+post session: cf7f2989-4bd3-f23e-1196-bbb7dc204e56
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+===>start_session
+session is:ec9e883f-12d2-537a-fb9c-fd7c720b3e2d
+===>list_student
+session is: ec9e883f-12d2-537a-fb9c-fd7c720b3e2d
+post session: ec9e883f-12d2-537a-fb9c-fd7c720b3e2d
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+session is: ec9e883f-12d2-537a-fb9c-fd7c720b3e2d
+post session: ec9e883f-12d2-537a-fb9c-fd7c720b3e2d
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+session is: ec9e883f-12d2-537a-fb9c-fd7c720b3e2d
+post session: ec9e883f-12d2-537a-fb9c-fd7c720b3e2d
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+session is: ec9e883f-12d2-537a-fb9c-fd7c720b3e2d
+post session: ec9e883f-12d2-537a-fb9c-fd7c720b3e2d
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+session is: ec9e883f-12d2-537a-fb9c-fd7c720b3e2d
+post session: ec9e883f-12d2-537a-fb9c-fd7c720b3e2d
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+session is: ec9e883f-12d2-537a-fb9c-fd7c720b3e2d
+post session: ec9e883f-12d2-537a-fb9c-fd7c720b3e2d
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+session is: ec9e883f-12d2-537a-fb9c-fd7c720b3e2d
+post session: ec9e883f-12d2-537a-fb9c-fd7c720b3e2d
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+session is: ec9e883f-12d2-537a-fb9c-fd7c720b3e2d
+post session: ec9e883f-12d2-537a-fb9c-fd7c720b3e2d
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+session is: ec9e883f-12d2-537a-fb9c-fd7c720b3e2d
+post session: ec9e883f-12d2-537a-fb9c-fd7c720b3e2d
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+session is: ec9e883f-12d2-537a-fb9c-fd7c720b3e2d
+post session: ec9e883f-12d2-537a-fb9c-fd7c720b3e2d
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+===>start_session
+session is:89513216-ebb2-321d-bb61-566be157cc4a
+===>list_student
+session is: 89513216-ebb2-321d-bb61-566be157cc4a
+post session: 89513216-ebb2-321d-bb61-566be157cc4a
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+session is: 89513216-ebb2-321d-bb61-566be157cc4a
+post session: 89513216-ebb2-321d-bb61-566be157cc4a
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+session is: 89513216-ebb2-321d-bb61-566be157cc4a
+post session: 89513216-ebb2-321d-bb61-566be157cc4a
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+session is: 89513216-ebb2-321d-bb61-566be157cc4a
+post session: 89513216-ebb2-321d-bb61-566be157cc4a
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+session is: 89513216-ebb2-321d-bb61-566be157cc4a
+post session: 89513216-ebb2-321d-bb61-566be157cc4a
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+session is: 89513216-ebb2-321d-bb61-566be157cc4a
+post session: 89513216-ebb2-321d-bb61-566be157cc4a
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+session is: 89513216-ebb2-321d-bb61-566be157cc4a
+post session: 89513216-ebb2-321d-bb61-566be157cc4a
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+session is: 89513216-ebb2-321d-bb61-566be157cc4a
+post session: 89513216-ebb2-321d-bb61-566be157cc4a
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+session is: 89513216-ebb2-321d-bb61-566be157cc4a
+post session: 89513216-ebb2-321d-bb61-566be157cc4a
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+session is: 89513216-ebb2-321d-bb61-566be157cc4a
+post session: 89513216-ebb2-321d-bb61-566be157cc4a
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+session is: 89513216-ebb2-321d-bb61-566be157cc4a
+post session: 89513216-ebb2-321d-bb61-566be157cc4a
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+session is: 89513216-ebb2-321d-bb61-566be157cc4a
+post session: 89513216-ebb2-321d-bb61-566be157cc4a
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+session is: 89513216-ebb2-321d-bb61-566be157cc4a
+post session: 89513216-ebb2-321d-bb61-566be157cc4a
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+===>start_session
+session is:aaf3d44b-542f-70d6-b997-772033a95be3
+===>list_student
+session is: aaf3d44b-542f-70d6-b997-772033a95be3
+post session: aaf3d44b-542f-70d6-b997-772033a95be3
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+session is: aaf3d44b-542f-70d6-b997-772033a95be3
+post session: aaf3d44b-542f-70d6-b997-772033a95be3
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+session is: aaf3d44b-542f-70d6-b997-772033a95be3
+post session: aaf3d44b-542f-70d6-b997-772033a95be3
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+session is: aaf3d44b-542f-70d6-b997-772033a95be3
+post session: aaf3d44b-542f-70d6-b997-772033a95be3
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+session is: aaf3d44b-542f-70d6-b997-772033a95be3
+post session: aaf3d44b-542f-70d6-b997-772033a95be3
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+session is: aaf3d44b-542f-70d6-b997-772033a95be3
+post session: aaf3d44b-542f-70d6-b997-772033a95be3
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>start_session
+session is:2c275948-2121-f9a3-8c75-0ede76b30060
+===>list_student
+session is: 2c275948-2121-f9a3-8c75-0ede76b30060
+post session: 2c275948-2121-f9a3-8c75-0ede76b30060
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>start_session
+session is:de36db31-f4c0-8459-c426-8964affaf206
+===>list_student
+===>list_student
+===>list_student
+===>list_student
+===>list_student
+===>list_student
+add student \"admin" success
+===>list_student
+add student \"admin" success
+===>start_session
+session is:8bc363e9-ef22-e261-6d64-188f02d4c754
+===>list_student
+===>list_student
+session is: 8bc363e9-ef22-e261-6d64-188f02d4c754
+post session: 8bc363e9-ef22-e261-6d64-188f02d4c754
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":16,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"}]}"}
+===>list_student
+session is: 8bc363e9-ef22-e261-6d64-188f02d4c754
+post session: 8bc363e9-ef22-e261-6d64-188f02d4c754
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":16,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"}]}"}
+===>list_student
+session is: 8bc363e9-ef22-e261-6d64-188f02d4c754
+post session: 8bc363e9-ef22-e261-6d64-188f02d4c754
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":16,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"}]}"}
+===>list_student
+session is: 8bc363e9-ef22-e261-6d64-188f02d4c754
+post session: 8bc363e9-ef22-e261-6d64-188f02d4c754
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":16,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"}]}"}
+===>list_student
+session is: 8bc363e9-ef22-e261-6d64-188f02d4c754
+post session: 8bc363e9-ef22-e261-6d64-188f02d4c754
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":16,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"}]}"}
+===>list_student
+===>list_student
+===>list_student
+===>list_student
+session is: 8bc363e9-ef22-e261-6d64-188f02d4c754
+post session: 8bc363e9-ef22-e261-6d64-188f02d4c754
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":16,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"}]}"}
+===>list_student
+===>list_student
+session is: 8bc363e9-ef22-e261-6d64-188f02d4c754
+post session: 8bc363e9-ef22-e261-6d64-188f02d4c754
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":16,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"}]}"}
+===>list_student
+===>start_session
+session is:2173fe90-c4b9-172e-287d-6e05773667bb
+===>list_student
+session is: 2173fe90-c4b9-172e-287d-6e05773667bb
+post session: 2173fe90-c4b9-172e-287d-6e05773667bb
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":16,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"}]}"}
+===>list_student
+session is: 2173fe90-c4b9-172e-287d-6e05773667bb
+post session: 2173fe90-c4b9-172e-287d-6e05773667bb
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":16,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"}]}"}
+===>list_student
+===>list_student
+session is: 2173fe90-c4b9-172e-287d-6e05773667bb
+post session: 2173fe90-c4b9-172e-287d-6e05773667bb
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":16,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"}]}"}
+===>add_student
+add student "admin success\n===>list_student
+session is: 2173fe90-c4b9-172e-287d-6e05773667bb
+post session: 2173fe90-c4b9-172e-287d-6e05773667bb
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":17,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"}]}"}
+===>list_student
+===>start_session
+session is:239f0860-b674-3f1c-29fb-b988849c259e
+===>add_student
+add student "admin success\n===>list_student
+session is: 239f0860-b674-3f1c-29fb-b988849c259e
+post session: 239f0860-b674-3f1c-29fb-b988849c259e
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":18,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+===>start_session
+===>start_session
+session is:6ecefd34-9233-e442-bcc5-2c94ee1e1edf
+===>start_session
+session is:43320cbd-34e3-363e-ad7d-0ceddc486060
+===>start_session
+===>start_session
+===>start_session
+===>start_session
+===>start_session
+session is:674dec42-e7a3-2acd-25b0-1f48df86e520
+===>list_student
+session is: 674dec42-e7a3-2acd-25b0-1f48df86e520
+post session: 674dec42-e7a3-2acd-25b0-1f48df86e520
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":18,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+session is: 674dec42-e7a3-2acd-25b0-1f48df86e520
+post session: 674dec42-e7a3-2acd-25b0-1f48df86e520
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":18,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+session is: 674dec42-e7a3-2acd-25b0-1f48df86e520
+post session: 674dec42-e7a3-2acd-25b0-1f48df86e520
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":18,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+===>start_session
+session is:8f96b66f-0c3a-e442-090d-7b3f797f1509
+===>list_student
+session is: 8f96b66f-0c3a-e442-090d-7b3f797f1509
+post session: 8f96b66f-0c3a-e442-090d-7b3f797f1509
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":18,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>add_student
+add student "f success\n===>list_student
+session is: 8f96b66f-0c3a-e442-090d-7b3f797f1509
+post session: 8f96b66f-0c3a-e442-090d-7b3f797f1509
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":19,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"28\",\"name\":\"f\",\"sex\":\"m\",\"classid\":\"5\"}]}"}
+===>start_session
+session is:5f1a49c6-54c1-dc42-423a-1e6bd7da67f3
+===>list_student
+session is: 5f1a49c6-54c1-dc42-423a-1e6bd7da67f3
+post session: 5f1a49c6-54c1-dc42-423a-1e6bd7da67f3
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":19,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"28\",\"name\":\"f\",\"sex\":\"m\",\"classid\":\"5\"}]}"}
+===>list_student
+session is: 5f1a49c6-54c1-dc42-423a-1e6bd7da67f3
+post session: 5f1a49c6-54c1-dc42-423a-1e6bd7da67f3
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":19,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"28\",\"name\":\"f\",\"sex\":\"m\",\"classid\":\"5\"}]}"}
+===>list_student
+===>start_session
+session is:fca134ee-718b-ad02-c42f-14af55362095
+===>list_student
+session is: fca134ee-718b-ad02-c42f-14af55362095
+post session: fca134ee-718b-ad02-c42f-14af55362095
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":19,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"28\",\"name\":\"f\",\"sex\":\"m\",\"classid\":\"5\"}]}"}
+===>start_session
+session is:6e9671a1-1ed4-c322-70d8-387550e097df
+===>list_student
+session is: 6e9671a1-1ed4-c322-70d8-387550e097df
+post session: 6e9671a1-1ed4-c322-70d8-387550e097df
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":19,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"28\",\"name\":\"f\",\"sex\":\"m\",\"classid\":\"5\"}]}"}
+===>list_student
+session is: 6e9671a1-1ed4-c322-70d8-387550e097df
+post session: 6e9671a1-1ed4-c322-70d8-387550e097df
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":19,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"28\",\"name\":\"f\",\"sex\":\"m\",\"classid\":\"5\"}]}"}
+===>list_student
+session is: 6e9671a1-1ed4-c322-70d8-387550e097df
+post session: 6e9671a1-1ed4-c322-70d8-387550e097df
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":19,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"28\",\"name\":\"f\",\"sex\":\"m\",\"classid\":\"5\"}]}"}
+===>list_student
+session is: 6e9671a1-1ed4-c322-70d8-387550e097df
+post session: 6e9671a1-1ed4-c322-70d8-387550e097df
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":19,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"28\",\"name\":\"f\",\"sex\":\"m\",\"classid\":\"5\"}]}"}
+===>list_student
+===>start_session
+session is:080cc6aa-7995-7fde-817b-ed9a4fcccefc
+===>list_student
+session is: 080cc6aa-7995-7fde-817b-ed9a4fcccefc
+post session: 080cc6aa-7995-7fde-817b-ed9a4fcccefc
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":19,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"28\",\"name\":\"f\",\"sex\":\"m\",\"classid\":\"5\"}]}"}
+===>list_student
+session is: 080cc6aa-7995-7fde-817b-ed9a4fcccefc
+post session: 080cc6aa-7995-7fde-817b-ed9a4fcccefc
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":19,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"28\",\"name\":\"f\",\"sex\":\"m\",\"classid\":\"5\"}]}"}
+===>list_student
+session is: 080cc6aa-7995-7fde-817b-ed9a4fcccefc
+post session: 080cc6aa-7995-7fde-817b-ed9a4fcccefc
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":19,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"28\",\"name\":\"f\",\"sex\":\"m\",\"classid\":\"5\"}]}"}
+===>list_student
+session is: 080cc6aa-7995-7fde-817b-ed9a4fcccefc
+post session: 080cc6aa-7995-7fde-817b-ed9a4fcccefc
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":19,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"28\",\"name\":\"f\",\"sex\":\"m\",\"classid\":\"5\"}]}"}
+===>start_session
+session is:1d39b408-6eb0-5a9a-5197-556f7a77a81d
+===>list_student
+session is: 1d39b408-6eb0-5a9a-5197-556f7a77a81d
+post session: 1d39b408-6eb0-5a9a-5197-556f7a77a81d
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":19,\"row\":[{\"id\":\"9\",\"name\":\"李光明\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"28\",\"name\":\"f\",\"sex\":\"m\",\"classid\":\"5\"}]}"}
+===>list_student
+session is: 1d39b408-6eb0-5a9a-5197-556f7a77a81d
+post session: 1d39b408-6eb0-5a9a-5197-556f7a77a81d
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":19,\"row\":[{\"id\":\"9\",\"name\":\"李光明9\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"28\",\"name\":\"f\",\"sex\":\"m\",\"classid\":\"5\"}]}"}
+===>list_student
+session is: 1d39b408-6eb0-5a9a-5197-556f7a77a81d
+post session: 1d39b408-6eb0-5a9a-5197-556f7a77a81d
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":19,\"row\":[{\"id\":\"9\",\"name\":\"李光明9\",\"sex\":\"m\",\"classid\":\"6\"},{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"28\",\"name\":\"f\",\"sex\":\"m\",\"classid\":\"5\"}]}"}
+===>delete_student
+===>delete_student
+2
+===>delete_student
+2
+===>start_session
+session is:685aebe3-35f2-98cd-443e-c8c28892ffd5
+===>list_student
+session is: 685aebe3-35f2-98cd-443e-c8c28892ffd5
+post session: 685aebe3-35f2-98cd-443e-c8c28892ffd5
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":18,\"row\":[{\"id\":\"10\",\"name\":\"李光明1\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"28\",\"name\":\"f\",\"sex\":\"m\",\"classid\":\"5\"}]}"}
+===>delete_student
+2
+3
+===>delete_student
+2
+3
+4
+===>delete_student
+2
+3
+4
+5
+===>delete_student
+2
+3
+4
+5
+{"code":"ERROR_MSG_IDC","msg":"Program error"}
+===>delete_student
+===>list_student
+session is: 685aebe3-35f2-98cd-443e-c8c28892ffd5
+post session: 685aebe3-35f2-98cd-443e-c8c28892ffd5
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":17,\"row\":[{\"id\":\"11\",\"name\":\"墨尔本\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"28\",\"name\":\"f\",\"sex\":\"m\",\"classid\":\"5\"}]}"}
+===>delete_student
+===>list_student
+session is: 685aebe3-35f2-98cd-443e-c8c28892ffd5
+post session: 685aebe3-35f2-98cd-443e-c8c28892ffd5
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":16,\"row\":[{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"28\",\"name\":\"f\",\"sex\":\"m\",\"classid\":\"5\"}]}"}
+===>delete_student
+===>list_student
+===>start_session
+session is:d3fcad79-00f6-86d8-48c0-ec1c1cbc1b0a
+===>list_student
+session is: d3fcad79-00f6-86d8-48c0-ec1c1cbc1b0a
+post session: d3fcad79-00f6-86d8-48c0-ec1c1cbc1b0a
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":16,\"row\":[{\"id\":\"13\",\"name\":\"我曹??\",\"sex\":\"w\",\"classid\":\"5\"},{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"28\",\"name\":\"f\",\"sex\":\"m\",\"classid\":\"5\"}]}"}
+===>delete_student
+result:{"code":"SUCCESS_MSG","msg":"success"}
+===>list_student
+session is: d3fcad79-00f6-86d8-48c0-ec1c1cbc1b0a
+post session: d3fcad79-00f6-86d8-48c0-ec1c1cbc1b0a
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":15,\"row\":[{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"28\",\"name\":\"f\",\"sex\":\"m\",\"classid\":\"5\"}]}"}
+===>delete_student
+result:{"code":"ERROR_MSG_IDC","msg":"Program error"}
+===>delete_student
+result:{"code":"ERROR_MSG_IDC","msg":"Program error"}
+===>delete_student
+result:{"code":"ERROR_MSG_IDC","msg":"Program error"}
+===>list_student
+session is: d3fcad79-00f6-86d8-48c0-ec1c1cbc1b0a
+post session: d3fcad79-00f6-86d8-48c0-ec1c1cbc1b0a
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":15,\"row\":[{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"28\",\"name\":\"f\",\"sex\":\"m\",\"classid\":\"5\"}]}"}
+===>list_student
+session is: d3fcad79-00f6-86d8-48c0-ec1c1cbc1b0a
+post session: d3fcad79-00f6-86d8-48c0-ec1c1cbc1b0a
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":15,\"row\":[{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"28\",\"name\":\"f\",\"sex\":\"m\",\"classid\":\"5\"}]}"}
+===>delete_student
+result:{"code":"ERROR_MSG_IDC","msg":"Program error"}
+===>list_student
+session is: d3fcad79-00f6-86d8-48c0-ec1c1cbc1b0a
+post session: d3fcad79-00f6-86d8-48c0-ec1c1cbc1b0a
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":15,\"row\":[{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"28\",\"name\":\"f\",\"sex\":\"m\",\"classid\":\"5\"}]}"}
+===>add_student
+add student "i am 5 success\n===>list_student
+session is: d3fcad79-00f6-86d8-48c0-ec1c1cbc1b0a
+post session: d3fcad79-00f6-86d8-48c0-ec1c1cbc1b0a
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":16,\"row\":[{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"28\",\"name\":\"f\",\"sex\":\"m\",\"classid\":\"5\"},{\"id\":\"29\",\"name\":\"i am 5\",\"sex\":\"m\",\"classid\":\"5\"}]}"}
+===>delete_student
+result:{"code":"SUCCESS_MSG","msg":"success"}
+===>delete_student
+main result:{"code":"ERROR_MSG_MISSTOKEN","msg":"Token miss"}
+===>delete_student
+main result:{"code":"ERROR_MSG_MISSTOKEN","msg":"Token miss"}
+===>list_student
+===>list_student
+===>list_student
+===>start_session
+session is:52c32cfd-d1b8-76b8-3787-a144ec7b79cc
+===>list_student
+session is: 52c32cfd-d1b8-76b8-3787-a144ec7b79cc
+post session: 52c32cfd-d1b8-76b8-3787-a144ec7b79cc
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":15,\"row\":[{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"28\",\"name\":\"f\",\"sex\":\"m\",\"classid\":\"5\"}]}"}
+===>delete_student
+result:{"code":"ERROR_MSG_IDC","msg":"Program error"}
+main result:{"code":"ERROR_MSG_IDC","msg":"Program error"}
+===>delete_student
+result:{"code":"ERROR_MSG_IDC","msg":"Program error"}
+===>delete_student
+result:{"code":"ERROR_MSG_IDC","msg":"Program error"}
+===>list_student
+session is: 52c32cfd-d1b8-76b8-3787-a144ec7b79cc
+post session: 52c32cfd-d1b8-76b8-3787-a144ec7b79cc
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":15,\"row\":[{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"28\",\"name\":\"f\",\"sex\":\"m\",\"classid\":\"5\"}]}"}
+===>list_student
+session is: 52c32cfd-d1b8-76b8-3787-a144ec7b79cc
+post session: 52c32cfd-d1b8-76b8-3787-a144ec7b79cc
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":15,\"row\":[{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"28\",\"name\":\"f\",\"sex\":\"m\",\"classid\":\"5\"}]}"}
+===>delete_student
+result:{"code":"ERROR_MSG_IDC","msg":"Program error"}
+===>delete_student
+result:{"code":"ERROR_MSG_IDC","msg":"Program error"}
+===>delete_student
+result:{"code":"ERROR_MSG_IDC","msg":"Program error"}
+===>delete_student
+result:{"code":"ERROR_MSG_IDC","msg":"Program error"}
+===>delete_student
+result:{"code":"ERROR_MSG_IDC","msg":"Program error"}
+===>delete_student
+result:{"code":"ERROR_MSG_IDC","msg":"Program error"}
+===>delete_student
+result:{"code":"ERROR_MSG_IDC","msg":"Program error"}
+===>delete_student
+result:{"code":"ERROR_MSG_IDC","msg":"Program error"}
+===>delete_student
+result:{"code":"ERROR_MSG_IDC","msg":"Program error"}
+===>delete_student
+result:{"code":"ERROR_MSG_IDC","msg":"Program error"}
+===>list_student
+session is: 52c32cfd-d1b8-76b8-3787-a144ec7b79cc
+post session: 52c32cfd-d1b8-76b8-3787-a144ec7b79cc
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":15,\"row\":[{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"28\",\"name\":\"f\",\"sex\":\"m\",\"classid\":\"5\"}]}"}
+===>delete_student
+result:{"code":"ERROR_MSG_IDC","msg":"Program error"}
+===>list_student
+session is: 52c32cfd-d1b8-76b8-3787-a144ec7b79cc
+post session: 52c32cfd-d1b8-76b8-3787-a144ec7b79cc
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":15,\"row\":[{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"28\",\"name\":\"f\",\"sex\":\"m\",\"classid\":\"5\"}]}"}
+===>list_student
+session is: 52c32cfd-d1b8-76b8-3787-a144ec7b79cc
+post session: 52c32cfd-d1b8-76b8-3787-a144ec7b79cc
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":15,\"row\":[{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"28\",\"name\":\"f\",\"sex\":\"m\",\"classid\":\"5\"}]}"}
+===>delete_student
+result:{"code":"SUCCESS_MSG","msg":"success"}
+===>list_student
+session is: 52c32cfd-d1b8-76b8-3787-a144ec7b79cc
+post session: 52c32cfd-d1b8-76b8-3787-a144ec7b79cc
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>list_student
+session is: 52c32cfd-d1b8-76b8-3787-a144ec7b79cc
+post session: 52c32cfd-d1b8-76b8-3787-a144ec7b79cc
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":14,\"row\":[{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"},{\"id\":\"27\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"1\"}]}"}
+===>delete_student
+result:{"code":"SUCCESS_MSG","msg":"success"}
+===>list_student
+===>start_session
+session is:55ef8369-696d-788f-2672-daa77f031446
+===>list_student
+session is: 55ef8369-696d-788f-2672-daa77f031446
+post session: 55ef8369-696d-788f-2672-daa77f031446
+5
+result is: {"code":"SUCCESS_MSG","msg":"success","data":"{\"total\":13,\"row\":[{\"id\":\"14\",\"name\":\"牛逼\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"15\",\"name\":\"牛逼2\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"16\",\"name\":\"牛逼3\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"17\",\"name\":\"牛逼4\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"18\",\"name\":\"牛逼5\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"19\",\"name\":\"牛逼6\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"20\",\"name\":\"牛逼13\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"21\",\"name\":\"牛逼14\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"22\",\"name\":\"牛逼15\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"23\",\"name\":\"牛逼16\",\"sex\":\"m\",\"classid\":\"1\"},{\"id\":\"24\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"25\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"3\"},{\"id\":\"26\",\"name\":\"admin\",\"sex\":\"m\",\"classid\":\"34\"}]}"}
