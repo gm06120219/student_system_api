@@ -1,14 +1,14 @@
 #学生信息管理系统API
 
+#session模块
 <table>
-<tr><th colspan="3">session模块</th></tr>
 <tr><th>接口名</th><th>接口描述</th><th>link</th></tr>
 <tr><td>start_session</td><td>登录</td><td>session.php?action=start_session</td></tr>
 <tr><td>end_session</td><td>登出</td><td>session.php?action=start_session</td></tr>
 </table>
 
+#student模块
 <table>
-<tr><th colspan="3">student模块</th></tr>
 <tr><th>接口名</th><th>接口描述</th><th>link</th></tr>
 <tr><td>add_student</td><td>添加学生</td><td>student.php?action=add_student</td></tr>
 <tr><td>delete_student</td><td>删除学生</td><td>student.php?action=delete_student</td></tr>
